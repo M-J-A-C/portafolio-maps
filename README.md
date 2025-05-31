@@ -1,72 +1,45 @@
-# Getting Started with Create React App
+# Portafolio con Mapas Interactivos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Autor:** Mariana Joandle Alvarez Cazares
 
-## Available Scripts
+Este proyecto muestra distintas implementaciones usando la API de Google Maps con React, incluyendo:
 
-In the project directory, you can run:
+- Clustering de marcadores.
+- Trazado de rutas entre dos puntos.
+- Herramientas de dibujo de polígonos, círculos y rectángulos.
+- Visualización de usuarios desde una API.
+- Contador interactivo.
+- Tabla de usuarios.
 
-### `npm start`
+## 🚀 Proyecto desplegado
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👉 [Ver en GitHub Pages](https://M-J-A-C.github.io/Portafolio)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📷 Capturas
 
-### `npm test`
+### contador
+![Contador](./public/capturas/Contador.jpg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Tabla de Usuarios
+![Tabla de Usuarios](./public/capturas/Tabla_usuarios.jpg)
 
-### `npm run build`
+### Usuarios API
+![Usuarios API](./public/capturas/Usuarios_API.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Mapa Basico
+![Mapa Basico](./public/public/capturas/Mapa_Basico.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Trazado de rutas
+![Trazado de rutas](./public/capturas/Trazado_rutas.jpg)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Clustering
+![Clustering](./public/capturas/Cluster.jpg)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Dibujo sobre el mapa
+![Dibujo](./public/capturas/Dibujo.jpg)
 
 ### Trazado Direcciones
-![Direcciones](./capturas/Direcciones.jpg)
+![Direcciones](./public/capturas/Direcciones.jpg)
 
 ## ⚙️ Tecnologías
 
