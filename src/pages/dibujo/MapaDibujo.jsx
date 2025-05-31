@@ -73,8 +73,6 @@ const App = () => {
       const path = overlay.getPath().getArray().map((latlng) => latlng.toJSON());
       setPoligonos((prev) => [...prev, path]);
     }
-
-    overlay.setMap(null); // Borra la figura del mapa si no quieres que se quede
   };
 
   return (
@@ -88,7 +86,7 @@ const App = () => {
       <p>
         Para esto, se utilizó la librería DrawingManager de Google Maps para habilitar el dibujo de las figuras. Al completar cada forma,
         se extraen sus coordenadas, que se almacenan en el estado y se presentan en la interfaz agrupadas y con estilos que resaltan cada sección.
-        Favor de refrescar la página si no se muestra el mapa.
+      Favor de refrescar la página si no se muestra el mapa.
       </p>
     </div>
 
