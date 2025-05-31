@@ -1,4 +1,3 @@
-# Portafolio con Mapas Interactivos
 
 **Autor:** Mariana Joandle Alvarez Cazares
 
