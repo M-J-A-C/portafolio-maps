@@ -27,7 +27,7 @@ Este proyecto muestra distintas implementaciones usando la API de Google Maps co
 ![Usuarios API](./public/capturas/Usuarios_API.jpg)
 
 ### Mapa Basico
-![Mapa Basico](./public/public/capturas/Mapa_Basico.jpg)
+![Mapa Basico](./public/public/capturas/Mapa_basico.jpg)
 
 ### Trazado de rutas
 ![Trazado de rutas](./public/capturas/Trazado_rutas.jpg)
