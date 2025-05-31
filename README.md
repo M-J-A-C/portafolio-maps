@@ -1,6 +1,6 @@
 # Portafolio con Mapas Interactivos
 
-**Autor:** Mariana Jiménez
+**Autor:** Mariana Joandle Alvarez Cazares
 
 Este proyecto muestra distintas implementaciones usando la API de Google Maps con React, incluyendo:
 
